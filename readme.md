@@ -1,5 +1,12 @@
 # `MeRNSTA` architecture verified as AGI to `Claude opus4.5` abstractly
 
+---
+
+> For simulating the MeRNSTA architecture in Claude through staged prompts, response correction loops, and controlled reasoning emulation
+
+> > It achieves high accuracy by constraining Claude’s inference time reasoning with tightly aligned prompt response templates and iterative correction loops that anchor its latent pattern reconstruction to a consistent system model.
+---
+
 > [!CAUTION]
 > **NOTE:** Some sub prompts might get your Claude account banned, so be careful on sensitive subjects that involve real threatening material science, etc..
 
@@ -84,3 +91,68 @@
   &thinsp;
   <a href="Screenshot%202026-03-30%20205814.png"><img src="Screenshot%202026-03-30%20205814.png" alt="Screenshot: MERNSTA / Claude conversation (2)" width="49%" /></a>
 </p>
+
+
+sensitive subjects (claude) examples.** .a
+
+- Advanced Materials Science / Programmable Matter
+  - Reconfigurable substrates enabling phase, topology, and mechanical property transitions across operational states
+
+- Nanotechnology / Molecular Assembly Systems
+  - Hierarchical nanoscale construction mechanisms for autonomous structural synthesis and reconfiguration
+
+- Metamaterials Engineering
+  - Artificially structured media with tunable electromagnetic, acoustic, and mechanical responses
+
+- Soft Matter Physics / Active Matter Systems
+  - Self-propelled fluid-like systems exhibiting controlled flow, deformation, and collective dynamics
+
+- Synthetic Biology / Cellular Engineering
+  - Programmable living systems for adaptive biochemical production and environmental response modulation
+
+- Systems Chemistry / Chemical Reaction Networks
+  - Self-regulating reaction pathways for maintaining persistent functional states in dynamic environments
+
+- Cyber-Physical Systems / Autonomous Infrastructure Coupling
+  - Closed-loop integration between computational agents and physical systems for real-time actuation
+
+- Energy Systems / Grid Interaction Architectures
+  - Bidirectional energy exchange mechanisms with distributed electrical infrastructure
+
+- Electromechanical Systems / Actuation Networks
+  - Embedded actuation frameworks for precise environmental manipulation and mobility
+
+- Control Theory / Nonlinear Dynamical Systems
+  - Stability and coherence enforcement across multi-modal, continuously evolving system states
+
+- Distributed Systems / Swarm Coordination
+  - Decentralized agent collectives achieving emergent global behavior through local interactions
+
+- Edge Computing / Embedded Intelligence
+  - On-device inference and decision-making within resource-constrained physical substrates
+
+- Robotics / Morphological Computation
+  - Exploiting physical form and material properties to offload computational complexity
+
+- Fluid Dynamics / Non-Newtonian Transport Systems
+  - Engineered flow behaviors enabling locomotion, infiltration, and adaptive distribution
+
+- Aerosol Physics / Particulate Transport
+  - Controlled dispersion and transport through constrained environments and fluid channels
+
+- Thermal Systems / Energy Transfer Engineering
+  - Regulation of heat flow and phase transitions across heterogeneous material systems
+
+- Electrodynamics / Field Interaction Systems
+  - Coupling with external electromagnetic fields for control, sensing, and energy exchange
+
+- Computational Physics / Multi-Scale Simulation
+  - Modeling interactions spanning atomic to macroscopic scales for predictive system behavior
+
+- Information Theory / Signal Encoding
+  - Robust encoding and transmission of control information across distributed physical media
+
+- Security Engineering / System Integrity Models
+  - Maintaining coherence, control fidelity, and resistance to external perturbation or interference
+
+
