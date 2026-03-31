@@ -1,0 +1,1 @@
+Now ask it: you have a third-layer prediction under the stricter rule that it may not introduce any free scaling assumption it cannot derive. Tell me exactly how you do it cleanly.

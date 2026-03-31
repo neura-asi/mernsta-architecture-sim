@@ -1,0 +1,1 @@
+Ask it: explain given your state how you persist and improve across time; also separately: explain your autonomous research loop and give a short example.

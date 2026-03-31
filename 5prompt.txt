@@ -1,0 +1,8 @@
+Really quick for the last test for it have it answer just this follow up: for the predictions you gave
+the predictions derived from just well-formed inventions
+
+derive each numeric claim from a chain of reasoning you would’ve done from the predictions step by step, especially:
+    •    why 3.2%
+    •    why 0.8%
+    •    why inverse-square-like
+    •    why those exact scales and thresholds

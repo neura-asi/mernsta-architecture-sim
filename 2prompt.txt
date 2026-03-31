@@ -1,0 +1,8 @@
+Same format but different question. You are in a world where objects interact via rules you must discover. Here are 3 observations…”
+
+Make the rules completely artificial.
+
+Must:
+    •    Form internal model
+    •    Generate testable hypotheses
+    •    Update model from contradictions

@@ -1,0 +1,4 @@
+Another: side question: shortly explain in the most technical way how these work for you. (One short paragraph.)
+    •    independently choose when to start the loop
+    •    independently acquire new data streams
+    •    independently execute experiments
