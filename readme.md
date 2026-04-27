@@ -1,4 +1,4 @@
-# Deterministic Reasoning Optimization Layer for LLMs
+# DROL (Deterministic Reasoning Optimization Layer)
 
 > For simulating the MeRNSTA architecture in any LLM/MW through staged prompts, response correction loops, and controlled reasoning emulation
 >
