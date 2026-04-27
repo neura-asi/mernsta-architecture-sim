@@ -4,7 +4,7 @@
 >
 > > It achieves high accuracy by constraining Claude’s inference time reasoning with tightly aligned prompt response templates and iterative correction loops that anchor its latent pattern reconstruction to a consistent system model.
 ---
-> ### [https://deepwiki.com/neura-asi/mernsta-architecture-sim](https://deepwiki.com/neura-asi/mernsta-architecture-sim)
+> ### [https://deepwiki.com/neura-asi/drol](https://deepwiki.com/neura-asi/drol)
 ---
 
 > ### Claude can closely imitate MeRNSTA because it can follow the same reasoning patterns like self critique structured analysis contradiction checking and hypothesis generation which makes it feel like a coordinated cognitive system in one response but it is not actually running MeRNSTA mechanisms like persistent memory drift tracking or self repair since everything is recomputed fresh from the prompt so it is a convincing one pass simulation of continuous cognition rather than the real stateful system
