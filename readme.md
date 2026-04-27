@@ -1,6 +1,4 @@
-# Simulating [`MeRNSTA`](https://github.com/neura-asi/MeRNSTA) Architecture via Prompt Emulation in Claude Opus 4.5
-
----
+# Deterministic Reasoning Optimization Layer for LLMs
 
 > For simulating the MeRNSTA architecture in any LLM/MW through staged prompts, response correction loops, and controlled reasoning emulation
 >
