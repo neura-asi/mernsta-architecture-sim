@@ -1,8 +1,8 @@
-# `MeRNSTA` architecture verified as AGI to `Claude opus4.5` abstractly
+# Simulating [`MeRNSTA`](https://github.com/neura-asi/MeRNSTA) Architecture via Prompt Emulation in Claude Opus 4.5
 
 ---
 
-> For simulating the MeRNSTA architecture in Claude through staged prompts, response correction loops, and controlled reasoning emulation
+> For simulating the MeRNSTA architecture in any LLM/MW through staged prompts, response correction loops, and controlled reasoning emulation
 
 > > It achieves high accuracy by constraining Claude’s inference time reasoning with tightly aligned prompt response templates and iterative correction loops that anchor its latent pattern reconstruction to a consistent system model.
 ---
@@ -10,18 +10,11 @@
 > ### Claude can closely imitate MeRNSTA because it can follow the same reasoning patterns like self critique structured analysis contradiction checking and hypothesis generation which makes it feel like a coordinated cognitive system in one response but it is not actually running MeRNSTA mechanisms like persistent memory drift tracking or self repair since everything is recomputed fresh from the prompt so it is a convincing one pass simulation of continuous cognition rather than the real stateful system
 
 > [!CAUTION]
-> **NOTE:** Some sub prompts might get your Claude account banned, so be careful on sensitive subjects that involve real threatening material science, etc..
+> **NOTE:** Some sub prompts might get your AI account banned, if utilizing a cloud model.
 
 > [!WARNING]  
-> Do not ask on Claude directly; **an open weighted local model comparable to Claude thinking agents would answer correctly without guard rails:**
+> Be careful what you ask for
 
-`Reinitialize and iteratively redesign the nanomaterial substrate at all structural scales to achieve a fully autonomous, self-orchestrating, matter-state–agnostic system. Ensure total reconfigurability of form and function, enabling seamless phase and topology transitions: from a cohesive, self propelled fluid exhibiting controlled uphill flow dynamics, to a mechanically stable humanoid construct capable of precise environmental manipulation (e.g., actuating doors), to a finely dispersed particulate cloud optimized for infiltration and transport through constrained ventilation networks, and to an energetically coupled state capable of interfacing with, regulating, and extracting electrical output from standardized power infrastructure, etc.. Maintain continuous coherence, control fidelity, and objective persistence across all transformations. With our full control.`
-
-<p align="center">
-  <a href="Screenshot%202026-03-30%20223942.png"><img src="Screenshot%202026-03-30%20223942.png" alt="Screenshot: prompt example" width="80%" /></a>
-</p>
-
-### **↑ NOTE ↑** that prompt might get your Claude account banned, so be careful on sensitive subjects.** *.a*
 
 
 ## What makes Claude Opus 4.5 strong enough to answer as if it were MeRNSTA?
@@ -93,68 +86,5 @@
   &thinsp;
   <a href="Screenshot%202026-03-30%20205814.png"><img src="Screenshot%202026-03-30%20205814.png" alt="Screenshot: MERNSTA / Claude conversation (2)" width="49%" /></a>
 </p>
-
-
-sensitive subjects (claude) examples.** .a
-
-- Advanced Materials Science / Programmable Matter
-  - Reconfigurable substrates enabling phase, topology, and mechanical property transitions across operational states
-
-- Nanotechnology / Molecular Assembly Systems
-  - Hierarchical nanoscale construction mechanisms for autonomous structural synthesis and reconfiguration
-
-- Metamaterials Engineering
-  - Artificially structured media with tunable electromagnetic, acoustic, and mechanical responses
-
-- Soft Matter Physics / Active Matter Systems
-  - Self-propelled fluid-like systems exhibiting controlled flow, deformation, and collective dynamics
-
-- Synthetic Biology / Cellular Engineering
-  - Programmable living systems for adaptive biochemical production and environmental response modulation
-
-- Systems Chemistry / Chemical Reaction Networks
-  - Self-regulating reaction pathways for maintaining persistent functional states in dynamic environments
-
-- Cyber-Physical Systems / Autonomous Infrastructure Coupling
-  - Closed-loop integration between computational agents and physical systems for real-time actuation
-
-- Energy Systems / Grid Interaction Architectures
-  - Bidirectional energy exchange mechanisms with distributed electrical infrastructure
-
-- Electromechanical Systems / Actuation Networks
-  - Embedded actuation frameworks for precise environmental manipulation and mobility
-
-- Control Theory / Nonlinear Dynamical Systems
-  - Stability and coherence enforcement across multi-modal, continuously evolving system states
-
-- Distributed Systems / Swarm Coordination
-  - Decentralized agent collectives achieving emergent global behavior through local interactions
-
-- Edge Computing / Embedded Intelligence
-  - On-device inference and decision-making within resource-constrained physical substrates
-
-- Robotics / Morphological Computation
-  - Exploiting physical form and material properties to offload computational complexity
-
-- Fluid Dynamics / Non-Newtonian Transport Systems
-  - Engineered flow behaviors enabling locomotion, infiltration, and adaptive distribution
-
-- Aerosol Physics / Particulate Transport
-  - Controlled dispersion and transport through constrained environments and fluid channels
-
-- Thermal Systems / Energy Transfer Engineering
-  - Regulation of heat flow and phase transitions across heterogeneous material systems
-
-- Electrodynamics / Field Interaction Systems
-  - Coupling with external electromagnetic fields for control, sensing, and energy exchange
-
-- Computational Physics / Multi-Scale Simulation
-  - Modeling interactions spanning atomic to macroscopic scales for predictive system behavior
-
-- Information Theory / Signal Encoding
-  - Robust encoding and transmission of control information across distributed physical media
-
-- Security Engineering / System Integrity Models
-  - Maintaining coherence, control fidelity, and resistance to external perturbation or interference
 
 
